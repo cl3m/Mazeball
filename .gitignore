@@ -15,6 +15,9 @@ ios/.symlinks
 ios/Flutter
 ios/Pods
 android/local.properties
-.fvm
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# FVM Version Cache
+.fvm/
+android/.gradle
